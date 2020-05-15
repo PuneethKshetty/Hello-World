@@ -1,5 +1,1 @@
-#include<stdio.h>
-void main()
-{
-      printf("Hey World !!!");
-      }
+ALL KIND OF PROGRAMMING LANGUAGE THAT PRINTS " HELLO WORLD! "
